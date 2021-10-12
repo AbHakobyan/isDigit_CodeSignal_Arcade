@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isDigit_CodeSignal_Arcade", "isDigit_CodeSignal_Arcade\isDigit_CodeSignal_Arcade.csproj", "{BBFA480E-BE4F-4B3C-8578-13F303518F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFA480E-BE4F-4B3C-8578-13F303518F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFA480E-BE4F-4B3C-8578-13F303518F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFA480E-BE4F-4B3C-8578-13F303518F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFA480E-BE4F-4B3C-8578-13F303518F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C0959A-EEBD-4F20-BA57-11012AE0BADE}
+	EndGlobalSection
+EndGlobal
